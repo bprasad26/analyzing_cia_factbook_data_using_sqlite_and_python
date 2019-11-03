@@ -2,9 +2,10 @@ In this project, we'll work with data from the [CIA World Factbook](https://www.
 Earth.
 
 The Factbook contains demographic information like:
-    * `population` - The Population as of 2015
-    * `population_growth` - The annual population growth rate, as percentage.
-    *  `area` - The total land and water area.
+
+`population` - The Population as of 2015
+`population_growth` - The annual population growth rate, as percentage.
+`area` - The total land and water area.
 
 In this project, we'll explore the Python SQLite workflow to explore, analyze,
 and visualize data from this database.
